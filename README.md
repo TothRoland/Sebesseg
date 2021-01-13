@@ -1,0 +1,2 @@
+# Sebesseg
+Javascript mini-projekt
